@@ -1,24 +1,13 @@
-# vue_study
+# Cat Facts App
 
-## Project setup
+## Link:
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+https://dmitryrasov.github.io/Cat-Fact-Vue/
 ```
 
-### Compiles and minifies for production
+### Used features:
 ```
-npm run build
+- Working process with api
+- Vue direcrtives
+- Async\await
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
