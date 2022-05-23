@@ -1,9 +1,9 @@
 # Cat Facts App
 
 ## Link:
-```
+
 https://dmitryrasov.github.io/Cat-Fact-Vue/
-```
+
 
 ### Used features:
 ```
